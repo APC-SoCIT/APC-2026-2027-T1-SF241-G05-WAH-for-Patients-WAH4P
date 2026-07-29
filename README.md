@@ -37,7 +37,7 @@ Install the tools required by the subprojects you plan to run (for example, Dart
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/ceciliomichael/wah4patients.git
+git clone https://github.com/APC-SoCIT/APC-2026-2027-T1-SF241-G05-WAH-for-Patients-WAH4P.git
 cd wah4patients
 ```
 
